@@ -5,7 +5,7 @@ import numpy as np
 import tkinter as tk
 import time
 
-# Inicializa o ambiente com sujeira em posições aleatórias
+Inicializa o ambiente com sujeira em posições aleatórias
 ambiente = np.random.choice([0, 1], size=(4, 4), p=[0.5, 0.5])
 
 
