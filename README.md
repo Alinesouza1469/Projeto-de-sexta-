@@ -1,4 +1,6 @@
 # Projeto-de-sexta-
+
+
 import numpy as np
 import tkinter as tk
 import time
